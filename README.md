@@ -4,6 +4,6 @@
 
 **click the image to link**
 
-- serverless(lambda)
-- nodejs
-- mongodb
+- Serverless(lambda)
+- Nodejs
+- Mongodb
